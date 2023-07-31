@@ -1,0 +1,44 @@
+#navbar{
+    background-color: #e39343;
+}
+#icon{
+    color: #EEEEEE;
+}
+li.nav-item>a{
+    color: #EEEEEE;
+}
+li.nav-item>a:hover{
+    color: #00ADB5;
+}
+#searchbox>button{
+    background-color: #EEEEEE;
+}
+
+body{
+    color: #EEEEEE;
+    background-image: linear-gradient(#c9de63 5%,#27aba0 90%);
+}
+
+div.col>a#learnmore{
+    color: #f13fee;
+}
+div.col>p#name{
+    color:#2bdc98 ;
+}
+
+div#front-end>h2{
+    text-align: center;
+}
+div#back-end>h2{
+    text-align: center;
+}
+div#Database>h2{
+    text-align: center;
+}
+section#section>h1{
+    font-size: larger;
+}
+section#education{
+    color: #EEEEEE;
+
+}
